@@ -1,3 +1,7 @@
+
+*PLEASE NOTE THIS MODULE IS DEPRECATED DUE TO LACK OF MAINTENANCE AND ONLY SUPPORTS JOOMLA 1.5.9 AND BELOW*
+it would require rework to be compatible with current versions
+
 This Joomla connector comprises three Joomla components - one module, one component, and one search component (evolved from the image available on the opencats download page).
 
 This connector is known to work with Joomla 1.5.9 and below, and will work by default with OpenCATS v0.9.1a. Some work would be required due to db name changes in order to have it work with OSATS.
@@ -49,3 +53,4 @@ FINAL NOTE: this Joomla module/component is not configured to 'automagically ins
 --
 
 RussH | OpenCats.
+
